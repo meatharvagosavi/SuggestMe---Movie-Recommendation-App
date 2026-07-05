@@ -1,4 +1,4 @@
-# Movie Recommender System 🎬
+# Movie Recommender System - suggestme 🎬
 
 An end-to-end Machine Learning project that recommends movies based on the content of the movies the user has previously liked. This project utilizes a **Content-Based Filtering** approach and is deployed as an interactive web application using **Streamlit** and **Heroku**.
 
