@@ -1,0 +1,13 @@
+Recommender S/m - 
+1) content based - tags 
+2) collaborative filtering based - rating users similar / dissimilar -> A liked so recommend to B (eg. facebook frd circle)
+3) hybrid -> eg. youtube
+
+
+steps - 
+1) data -> 2) preprocessing -> 3) model -> 4) website product -> 5) deploy -> Heroku
+
+
+Dataset - TMDB 5000 movie dataset
+
+text -> vectors -> text vectors -> bag of words -> word2vec
